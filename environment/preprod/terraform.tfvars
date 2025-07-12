@@ -16,10 +16,10 @@ RG = {
     name     = "myrg3"
     location = "Central US"
   }
-  #   rg4 = {
-  #     name     = "myrg4"
-  #     location = "North Europe"
-  #   }
+    rg4 = {
+      name     = "myrg4"
+      location = "North Europe"
+    }
 }
 
 #Storage Account values
