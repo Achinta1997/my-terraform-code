@@ -26,6 +26,10 @@ RG = {
       location = "West Europe"
     }
 
+      rg8 = {
+      name     = "myrg8"
+      location = "West Europe"
+    }
      rg7 = {
       name     = "myrg7"
       location = "West Europe"
